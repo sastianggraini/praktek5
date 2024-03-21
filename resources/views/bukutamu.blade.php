@@ -1,6 +1,4 @@
-Berikut adalah kode untuk halaman buku tamu yang sesuai dengan contoh kode yang Anda berikan:
 
-```blade
 @extends('layout.main')
 
 @section('content')
